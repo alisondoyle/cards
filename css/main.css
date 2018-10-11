@@ -13,12 +13,12 @@ html {
   margin: 0;
   padding: 0;
   list-style-type: none;
-  text-align:center;
+  text-align: center;
 }
 
 .cards.li {
   display: inline-block;
-  margin: 0.5em 1em;
+  margin: .5em 1em;
   max-width: 20em;
   padding: 1em;
   background-color: #fff;
@@ -54,7 +54,7 @@ html {
 }
 
 .cards div {
-  text-align:center;
+  text-align: center;
 }
 
 .cards a {
